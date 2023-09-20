@@ -1,2 +1,2 @@
 # detection-app
-a object detection app implemented by flask.
+an interactive object detection app implemented by flask python.
